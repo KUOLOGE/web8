@@ -1,0 +1,37 @@
+body{
+	background-color: 	#F5F5F5;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+}
+h1, h2,h3 , p{
+	text-align: center;
+}
+
+
+
+.btn-circle.btn-xl {
+  width: 200px;
+  height: 200px;
+  padding: 10px 16px;
+  font-size: 50px;
+  line-height: 1.33;
+  border-radius: 140px;
+  text-align: center;
+  margin:0px 100px;
+}
+
+.col-lg-6{
+	margin: auto;
+	
+}
+.col-lg-6 img{
+	height: 100%;
+	width:100%;
+	padding:0px;
+}
+
+
